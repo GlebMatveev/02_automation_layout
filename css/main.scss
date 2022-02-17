@@ -73,7 +73,7 @@ p {
   }
 
   &-slider {
-    background-image: url(/img/header/header.jpg);
+    background-image: url(../img/header/header.jpg);
     background-repeat: no-repeat;
     background-position: right;
     background-size: 45%;
@@ -275,7 +275,7 @@ p {
 
 .subheader {
   &-slider {
-    background-image: url(/img/header/header-small.jpg);
+    background-image: url(../img/header/header-small.jpg);
     background-size: cover;
     padding-top: 51px;
     padding-bottom: 49px;
